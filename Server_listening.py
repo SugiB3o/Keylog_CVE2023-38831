@@ -1,6 +1,6 @@
 import socket
 
-IP = "172.16.2.90"
+IP = "IP Server Recive File"
 PORT = 4455
 ADDR = (IP, PORT)
 SIZE = 1024
