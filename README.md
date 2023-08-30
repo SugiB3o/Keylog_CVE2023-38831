@@ -1,4 +1,6 @@
-
+Convert  Keylog.py to Keylog.exe
+pip3 install pyinstaller
+pyinstaller --onefile keylog.py
 # CVE-2023-38831 winrar exploit generator
 
 ## Quick poc test
